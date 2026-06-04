@@ -62,7 +62,7 @@
     left: 2rem;
     transform: rotate(20deg);
     animation: one 4.4s;
-    background-color: rgb(224, 168, 168);
+    /* background-color: rgb(224, 168, 168); */
 }
 
 #two {
@@ -71,7 +71,7 @@
     right: 10rem;
     transform: rotate(-10deg);
     animation: two 4.4s;
-    background-color: rgb(227, 132, 132);
+    /* background-color: rgb(227, 132, 132); */
 }
 
 #three {
@@ -79,7 +79,7 @@
     top: 50rem;
     left: 10rem;
     /* animation: three 4.4s; */
-    background-color: rgb(218, 92, 92);
+    /* background-color: rgb(218, 92, 92); */
 }
 
 #seven {
